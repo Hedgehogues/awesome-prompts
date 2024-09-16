@@ -22,3 +22,7 @@ Each prompt typically includes the following elements:
 - Format. Instructions for format of response
 - Instructions. A detailed breakdown of how to approach the problem, encouraging systematic thinking
 - Algorithm. A step-by-step guide to solving the task efficiently
+
+# ChatGPT plugins
+- RnD plugin for techs, [plugin](https://chatgpt.com/g/g-Z5ySJnoPT-generatsiia-postov-pro-tekhnologii), [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/rnd-tech.pmt)
+- Thai translator, [plugin](https://chatgpt.com/g/g-Xqyu6QRrj-thai-language), [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/thai-translator.pmt)
