@@ -47,5 +47,5 @@ This parameter limits the maximum number of tokens in a response. Setting a limi
 # ChatGPT plugins
 - RnD plugin for techs, [plugin](https://chatgpt.com/g/g-Z5ySJnoPT-generatsiia-postov-pro-tekhnologii), [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/rnd-tech.pmt)
 - Thai translator, [plugin](https://chatgpt.com/g/g-Xqyu6QRrj-thai-language), [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/thai-translator.pmt)
-- Thai image differencer, [plugin](https://chatgpt.com/g/g-ZnOEtt5Am-words-differences), [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/word-visualisation.pmt)
+- Thai image differencer, [plugin](https://chatgpt.com/g/g-ZnOEtt5Am-words-differences), [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/word-visualisation.pmt), [example](https://chatgpt.com/share/66f1c802-c888-8003-ab49-3862a0dba03a)
 - Developer's grades [prompt](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/developer-grades.pmt)
