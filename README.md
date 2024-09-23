@@ -23,6 +23,7 @@ Each prompt typically includes the following elements:
 - Format. Instructions for format of response
 - Instructions. A detailed breakdown of how to approach the problem, encouraging systematic thinking
 - Algorithm. A step-by-step guide to solving the task efficiently
+- Math definition problems like [this](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/thai-word-visualisation.pmt)
 
 ## Model's parameters
 
