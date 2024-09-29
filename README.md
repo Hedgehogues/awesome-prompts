@@ -25,6 +25,13 @@ Each prompt typically includes the following elements:
 - Algorithm. A step-by-step guide to solving the task efficiently
 - Math definition problems like [this](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/thai-word-visualisation.pmt)
 
+# Features
+- User Interaction section: Demonstrates effective engagement with users, enhancing the overall experience, [example](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/paper.pmt)
+- New Variable Type <TEXT_LANGUAGE>: Reduces model errors by providing clearer context for language-specific content, [example](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/paper.pmt)
+- Text Format Section: Updated from "Instructions" to "Text Format" for improved clarity, [example](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/paper.pmt)
+- Section Format: Introduces "Section Format" to guide how to structure information effectively, [example](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/paper.pmt)
+- Sequential Structure: Replaces "Section Structure" with "Sequence" to enhance communication and clarify steps in the process, [example](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/paper.pmt)
+
 ## Model's parameters
 
 [Example](https://github.com/Hedgehogues/awesome-prompts/blob/main/promts/developer-grades.pmt)
